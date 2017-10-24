@@ -1,0 +1,28 @@
+body  {
+  text-align: center;
+}
+
+.content {
+  text-align: left;
+}
+
+p {
+  border: 1px solid #999;
+  margin: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+p:hover {
+  color: white;
+  background-color: green;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  border: 1px solid #E17271;
+  color: #E17271;
+  border-radius: 3px;
+  padding: 5px;
+}
